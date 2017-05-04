@@ -7,4 +7,4 @@
 ![](GIF.gif)
 
 
-有需要的自行下载 （使用gradle-3.3构建）
+有需要的自行下载 （本项目使用androidStudio2.3 和 gradle-3.3构建）
