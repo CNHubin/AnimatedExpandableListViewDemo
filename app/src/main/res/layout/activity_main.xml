@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#d9d9d9"
+              android:padding="15dp">
+
+    <com.huyingzi.animatedexpandablelistviewdemo.view.AnimatedExpandableListView
+        android:id="@+id/activity_expandablelistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.huyingzi.animatedexpandablelistviewdemo.view.AnimatedExpandableListView>
+
+</LinearLayout>

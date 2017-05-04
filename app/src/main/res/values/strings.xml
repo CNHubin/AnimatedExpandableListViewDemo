@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimatedExpandableListViewDemo</string>
+
+    <string-array name="item_name">
+        <item>系统设置</item>
+        <item>声音设置</item>
+        <item>显示设置</item>
+        <item>时间设置</item>
+        <item>震动器设置</item>
+    </string-array>
+</resources>
